@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://congress.republic-of-axie.org/sitemap.xml
